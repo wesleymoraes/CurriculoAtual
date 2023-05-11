@@ -1,0 +1,17 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+.Name{
+    color: black;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+}
+.w3-container p {
+    display: flex;
+    align-items: center;
+}
+.Linkedin{
+    color: blue;
+    text-decoration: underline;
+}
